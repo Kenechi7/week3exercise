@@ -1,0 +1,41 @@
+body {
+	background-color: grey;
+}
+nav a {
+	text-decoration: none;
+}
+
+nav {
+	display: block;
+}
+
+a:hover {
+	transition: 0.5s;
+	color: green;
+}
+
+ul {
+	list-style-type: none;	
+}
+
+button {
+	padding: 0 150px;
+}
+
+.button1 {
+	color: red;
+}
+
+.button2 {
+	background-color: green;
+}
+
+.button3:hover {
+	transition: 0.5s;
+	background-color: gold;
+}
+
+li {
+	display: inline-block;
+	padding: 75px;
+}
